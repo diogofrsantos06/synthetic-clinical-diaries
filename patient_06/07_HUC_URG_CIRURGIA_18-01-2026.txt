@@ -1,0 +1,42 @@
+18-Jan-2026 14:37:00 Dr(a). Miguel Ângelo Correia (HUC-URG_CIRURGIA)
+
+Homem, 52A, recorre por lesão ulcerada face plantar pé D, identificada há cerca de 5 dias. Refere diminuição marcada da sensibilidade local, sem dor significativa. Nega traumatismo conhecido, perfuração, queimadura, mordedura ou corpo estranho. Sem febre, calafrios, astenia aguda, náuseas/vómitos. Sem claudicação, dor em repouso ou alteração da coloração distal. Sem drenagem purulenta, odor fétido ou agravamento rápido da lesão.
+
+AP: DM1 desde 1998, sob esquema basal-bólus, controlo metabólico subótimo; nefropatia diabética c/ microalbuminúria; gota; perturbação bipolar tipo I compensada. Refere parestesias ocasionais pés, sem estudo conclusivo prévio de neuropatia periférica. Colecistectomia prévia. Alergia a cotrimoxazol, exantema generalizado.
+
+MH: insulina glargina 24 UI nocte; insulina aspártico conforme contagem HC; alopurinol 300 mg id; losartan 50 mg id; valproato sódio 500 mg 2id. Refere adesão habitual à insulina, com glicemias capilares frequentemente acima alvo. Sem antibioterapia recente.
+
+À observação vigil, orientado, colaborante, bom estado geral. TA 136/78 mmHg, FC 82 bpm, FR 16 cpm, SatO2 98% ar ambiente, T 36,4ºC. Eupneico, corado, hidratado. Sem sinais de sépsis. AC: S1/S2 rítmicos, sem sopros. AP: MV presente bilateralmente, sem RA. Abdómen plano, depressível, indolor, sem defesa.
+
+Membro inferior D sem edema, celulite ou linfangite. Pé D quente, bem perfundido; enchimento capilar <2 seg. Pulsos pedioso e tibial posterior palpáveis, simétricos c/ membro contralateral. Úlcera plantar ao nível da cabeça do 1.º metatársico, aprox. 1,5 x 1,2 cm, superficial, sem exposição de tendão/osso, fundo c/ fibrina e tecido desvitalizado superficial escasso. Bordos regulares, sem maceração importante. Sem eritema perilesional significativo, sem aumento de temperatura local, flutuação, crepitação, exsudado purulento ou odor. Sem trajectos fistulosos. Prova de contacto ósseo negativa. Sensibilidade tátil/protectora diminuída ao monofilamento 10 g na região plantar do antepé D, c/ diminuição bilateral menos acentuada noutros pontos plantares. Mobilidade dedos/tibiotársica preservada, sem dor evocada. Sem deformidade aguda.
+
+Glicemia capilar admissão 286 mg/dL. Analítica sem leucocitose ou elevação relevante de marcadores inflamatórios: Hb 14,2 g/dL, leucócitos 8,7x10^9/L, neutrófilos 5,6x10^9/L, plaquetas 248x10^9/L; PCR 4,8 mg/L. Glicose sérica 301 mg/dL. Ureia 38 mg/dL, creatinina 1,18 mg/dL, Na 136 mmol/L, K 4,5 mmol/L, Cl 101 mmol/L, HCO3 24 mmol/L. Sem acidose metabólica, sem critérios analíticos de CAD. Função hepática sem alterações relevantes.
+
+RX pé D, AP/oblíqua/perfil: sem corpo estranho radiopaco. Sem lise cortical, reacção periosteal, destruição óssea, esclerose medular ou outras alterações radiográficas sugestivas de osteomielite. Sem fractura ou luxação. Discretas alterações degenerativas das articulações interfalângicas e 1.ª metatarsofalângica, inespecíficas. Pequeno entesófito calcaneano plantar. Partes moles sem gás ou colecção identificável por esta técnica.
+
+Realizado desbridamento conservador de fibrina/tecido desvitalizado superficial, após limpeza abundante c/ SF, sem necessidade de anestesia pela hipoestesia local. Sem drenagem de material purulento. Hemostase assegurada. Aplicado penso não aderente e oclusivo estéril. Tolerado sem intercorrências.
+
+Úlcera neuropática plantar em pé diabético, sem critérios clínicos, analíticos ou radiográficos de infecção activa/osteomielite. Sem indicação actual para antibioterapia ou internamento. Explicada necessidade de descarga rigorosa do apoio sobre antepé D, evitar marcha descalço, inspecção diária de ambos os pés, manutenção de penso limpo/seco e controlo glicémico apertado. Orientado para reavaliação urgente se febre, rubor/edema progressivo, dor nova, exsudado, mau odor, necrose, hiperglicemia persistente ou deterioração do estado geral.
+
+Alta ao domicílio, autónomo, hemodinamicamente estável. Referenciação prioritária a consulta de Pé Diabético/Cirurgia, para vigilância seriada da úlcera, avaliação de descarga/palmilha e seguimento metabólico.
+
+Notas de Enfermagem
+Admitido pelo próprio, marcha autónoma. Triagem sem sinais de alarme. Glicemia capilar 286 mg/dL, sem sintomas de hiperglicemia aguda. Penso efectuado após observação médica; mantido seco, sem hemorragia. Ensino efectuado sobre descarga do membro e vigilância de sinais inflamatórios. Compreende indicações, alta acompanhado por familiar.
+
+Diagnósticos
+(E109) - Diabetes mellitus tipo 1 c/ hiperglicemia
+(L979) - Úlcera crónica plantar do pé direito, limitada à pele
+(G629) - Hipoestesia distal compatível c/ neuropatia periférica diabética, em avaliação
+(Z038) - Sem evidência de osteomielite/infeção profunda nesta observação
+
+MCDT Requisitados / Procedimentos Efectuados
+M10861 RX PÉ DIREITO, 3 INCIDÊNCIAS – sem corpo estranho radiopaco, sem sinais de osteomielite, sem fractura/luxação; discretas alterações degenerativas interfalângicas e 1.ª MTF; sem gás em partes moles.
+A02001 Hemograma completo – leucócitos 8,7x10^9/L, neutrófilos 5,6x10^9/L, Hb 14,2 g/dL, plaquetas 248x10^9/L.
+A02015 Bioquímica urgente – glicose 301 mg/dL, ureia 38 mg/dL, creatinina 1,18 mg/dL, ionograma sem alterações relevantes, HCO3 24 mmol/L.
+A02036 PCR – 4,8 mg/L.
+P04120 Desbridamento superficial de úlcera plantar e penso oclusivo estéril.
+
+Destino do Doente
+Data: 18/01/2026 17:18:00
+Destino: Domicílio, c/ referenciação prioritária Consulta Pé Diabético/Cirurgia.
+Médico: Dr(a). Miguel Ângelo Correia

@@ -1,0 +1,55 @@
+14-Jan-2026 16:42:00 Dr(a). Joana Matos Varela (HUC-URG_MEDICA)
+
+Mulher, 29A, recorre por agravamento de edemas MMII e urina espumosa há cerca de 7 dias. Edema inicialmente maleolar, bilateral, progressivo, mais marcado ao fim do dia. Refere espuma urinária persistente, sem hematúria macroscópica, disúria, urgência miccional ou dor lombar. Sem diminuição marcada da diurese; diurese mantida, embora refira urina mais concentrada ocasionalmente. Sem febre, calafrios, tosse, dispneia, ortopneia, dor torácica, palpitações ou síncope. Sem cefaleia intensa, alterações visuais ou défices neurológicos. Nega aumento ponderal quantificado. Sem toma recente de AINE, contraste iodado, antibioterapia ou suplementos/fitoterápicos. Sem alterações recentes conhecidas da adesão terapêutica.
+
+AP: LES c/ nefrite lúpica classe III, sob manutenção imunossupressora; SAF c/ TVP MIE em 2019, anticoagulada cronicamente; hipotiroidismo autoimune. Pericardite lúpica 05/2023, resolvida. Fenómeno de Raynaud ligeiro, sem ulceração digital. Pequeno derrame pericárdico residual assintomático conhecido, sem repercussão hemodinâmica em ecocardiograma prévio.
+
+MH: hidroxicloroquina 400 mg id; micofenolato mofetil 1 g 2id; prednisolona 5 mg id; varfarina conforme INR; levotiroxina 100 mcg id. Refere cumprimento. Alergia a penicilina, angioedema.
+
+À observação consciente, colaborante, bom estado geral, corada, hidratada, eupneica em ar ambiente. TA 154/96 mmHg, repetida 148/92 mmHg; FC 82 bpm, FR 16 cpm, SpO2 99% AA, T 36,7ºC. Peso referido habitual 61 kg; peso actual 63,1 kg. Sem exantema novo, petéquias, púrpura ou lesões vasculíticas. Mucosas húmidas. Sem ingurgitamento jugular. AC: tons rítmicos, sem sopros, sem atrito pericárdico. AP: MV bilateralmente audível e simétrico, sem crepitações/sibilos. Abdómen plano, macio, depressível, indolor, sem massas ou organomegalias; sem ascite clínica. Lojas renais indolores, Giordano bilateral negativo. MMII c/ edema maleolar e pré-tibial bilateral, simétrico, depressível/godet +/++ até terço distal das pernas; sem rubor, calor, dor gemelar ou assimetria. Pulsos periféricos presentes. Sem sinais clínicos de sobrecarga pulmonar ou insuficiência cardíaca aguda.
+
+Analítica: Hb 11,2 g/dL, VGM 88 fL, leucócitos 5,8x10^9/L, neutrófilos 3,9x10^9/L, plaquetas 218x10^9/L. PCR 2,1 mg/L. Ureia 48 mg/dL, creatinina 1,18 mg/dL, eGFR 64 mL/min/1,73m2; creatinina basal conhecida ~0,90-0,95 mg/dL. Na 139 mmol/L, K 4,4 mmol/L, Cl 106 mmol/L, HCO3 23 mmol/L, Ca 8,4 mg/dL, P 3,7 mg/dL, Mg 1,9 mg/dL. Albumina 3,1 g/dL, proteínas totais 5,8 g/dL. AST 21 U/L, ALT 18 U/L, FA 72 U/L, bilirrubina total 0,4 mg/dL. LDH normal. INR 2,46, dentro de alvo habitual referido para SAF; aPTT prolongado no contexto de anticoagulação/SAF.
+
+Urina II: densidade 1,015, pH 6,0, proteínas 3+, sangue 1+, nitritos negativos, leucócitos negativos; sedimento c/ 8-12 eritrócitos/campo, sem leucocitúria significativa, sem cilindros hemáticos identificados na amostra observada, raras células epiteliais. Relação proteína/creatinina urinária 2,86 g/g, francamente aumentada; albuminúria significativa. Urocultura colhida, sem elementos clínico-analíticos sugestivos de ITU. C3 62 mg/dL e C4 9 mg/dL, inferiores a valores prévios conhecidos; anti-dsDNA enviado para quantificação, resultado pendente.
+
+ECG: ritmo sinusal, FC 78 bpm, eixo normal, sem alterações agudas ST-T.
+
+Ecografia renal e vesical: rins em topografia habitual, dimensões preservadas, rim D 10,8 cm e rim E 11,1 cm, contornos regulares. Discreta hiperecogenicidade cortical bilateral e diminuição ligeira da diferenciação córtico-medular, compatível c/ nefropatia médica crónica conhecida. Sem dilatação pielocalicial, hidronefrose ou imagens de litíase. Sem lesões focais renais sólidas ou quísticas complexas. Sem colecções peri-renais. Bexiga moderadamente repleta, parede regular, sem imagens endoluminais; resíduo pós-miccional não significativo. Sem sinais ecográficos de obstrução urinária aguda.
+
+Quadro de edema periférico, HTA acima do habitual, hipoalbuminemia, aumento marcado de proteinúria e discreto agravamento da função renal em doente c/ nefrite lúpica conhecida, globalmente sugestivo de reactivação de actividade renal lúpica/proteinúrica. Sem critérios actuais de lesão renal aguda grave, hipercaliemia, acidose, emergência hipertensiva, infecção intercurrente ou sobrecarga cardiopulmonar. Discutido telefonicamente c/ Nefrologia de prevenção; sem indicação para internamento emergente nesta fase, condicionada a vigilância estreita e reavaliação urgente.
+
+Instituído reforço transitório de prednisolona: 30 mg id, de manhã, após alimento, durante 5 dias; posteriormente 20 mg id até observação por Nefrologia, onde deverá ser definida continuação/desmame e eventual ajuste de imunossupressão. Manter micofenolato 1 g 2id e hidroxicloroquina 400 mg id, sem alterações autónomas. Manter varfarina conforme esquema habitual e vigilância de INR. Evitar AINE, contraste iodado e fármacos nefrotóxicos. Dieta hipossódica, evitar excesso hídrico; manter hidratação regular sem sobrecarga. Registo domiciliário de TA 2id, peso diário e diurese aproximada. Repetir função renal, ionograma, albumina, urina II e relação proteína/creatinina em 48-72h, ou antes se agravamento. Contacto urgente para consulta de Nefrologia/Hospital de Dia nas próximas 48h; manter seguimento Reumatologia.
+
+Explicados sinais de alarme para regresso imediato: dispneia, ortopneia, dor torácica, redução importante/anúria, edema rapidamente progressivo, TA persistentemente >180/110 mmHg, cefaleia intensa/alterações visuais, febre, hematúria macroscópica ou intolerância à medicação. Compreende e concorda c/ plano.
+
+Notas de Enfermagem
+
+Admitida deambulante, sem dificuldade respiratória ou dor. Triagem c/ prioridade amarela. TA inicialmente 156/98 mmHg. Colheitas sanguíneas e urinárias efectuadas sem intercorrências. Mantida vigilância; sem agravamento clínico durante permanência no SU. À saída TA 148/92 mmHg, FC 80 bpm, SpO2 99% AA, sem queixas novas.
+
+Diagnósticos
+
+(N05.9) - Nefrite lúpica c/ provável reactivação clínica, proteinúria e discreto agravamento da função renal.
+(R60.0) - Edema periférico bilateral.
+(R03.0) - Elevação tensional sem lesão aguda de órgão-alvo.
+
+Medicação
+
+Data Início | Data Fim | Data da última toma | Designação do Fármaco
+14/01/2026 | 18/01/2026 | 14/01/2026 | Prednisolona 30 mg VO id, manhã
+19/01/2026 | Até reavaliação por Nefrologia | — | Prednisolona 20 mg VO id, manhã
+
+MCDT Requisitados / Procedimentos Efectuados
+
+A10001 - Hemograma completo c/ fórmula leucocitária e plaquetas.
+A10024 - Bioquímica sérica: função renal, ionograma, proteínas/albumina, perfil hepático, PCR.
+A10032 - Estudo de coagulação: TP/INR, aPTT.
+A10116 - Urina II c/ sedimento, relação proteína/creatinina urinária e urocultura.
+A10241 - Complemento C3/C4 e anti-dsDNA; anti-dsDNA pendente à data de alta.
+M10876 - ECG 12 derivações: ritmo sinusal, sem alterações isquémicas agudas.
+M10942 - Ecografia renal e vesical: rins de dimensões normais, discreta hiperecogenicidade cortical bilateral compatível c/ nefropatia médica; sem obstrução, hidronefrose, litíase ou alterações focais agudas.
+
+Destino do Doente
+
+Data: 14/01/2026
+Destino: Domicílio, c/ reavaliação urgente em Nefrologia em 48h e controlo analítico em 48-72h.
+Médico: Dr(a). Joana Matos Varela

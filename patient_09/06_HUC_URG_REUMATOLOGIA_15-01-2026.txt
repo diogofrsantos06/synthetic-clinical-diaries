@@ -1,0 +1,49 @@
+15-Jan-2026 10:18:00 Dr(a). Inês Valente (HUC-URG_REUMATOLOGIA)
+
+Mulher, 47A, recorre por agudização de lombalgia de padrão inflamatório c/ cerca de 4 dias evolução. Dor lombossagrada bilateral, predominante em repouso/nocturna, c/ rigidez matinal marcada (>2h), melhoria parcial c/ mobilização e agravamento após imobilidade. Refere limitação funcional importante, dificuldade em levantar-se, calçar-se e manter ortostatismo prolongado. Sem traumatismo, queda ou esforço físico desencadeante identificado. Sem irradiação radicular definida, parestesias, défice motor, anestesia em sela, alterações esfincterianas ou retenção urinária. Sem febre, arrepios, sudorese nocturna ou perda ponderal. Sem dor abdominal, disúria, tosse ou outros focos infecciosos. Sem olho vermelho/dor ocular/fotofobia. Sem diarreia, rectorragias ou lesões cutâneas novas.
+
+AP: espondiloartrite axial HLA-B27+, sacroileíte bilateral conhecida; DM2; hepatite C crónica tratada c/ RVS desde 2020, fibrose residual F1-F2 em vigilância; MASH. Colecistectomia por colecistite litiásica 2021. Uveíte anterior em 2019, sem recorrência. Refere habitualmente dor lombar mecânica ocasional, distinta do quadro actual.  
+MH: secuquinumab 150 mg SC mensal, última administração há cerca de 3 sem.; metformina 850 mg 2id; vitamina E 800 UI/dia; ácido fólico 5 mg/sem. Sem suspensão recente de biológico. Alergia a látex, urticária de contacto. Nega alergias medicamentosas.
+
+À observação consciente, colaborante, orientada, fácies álgico. TA 136/82 mmHg, FC 88 bpm, FR 18 cpm, T 36,7ºC, SpO2 98% ar ambiente. Eupneica, normoperfundida. Sem adenopatias periféricas. AC: S1/S2 rítmicos, sem sopros. AP: MV mantido bilateralmente, sem ruídos adventícios. Abdómen plano, depressível, indolor, sem massas ou visceromegalias palpáveis. Sem lesões cutâneas sugestivas de psoríase activa.
+
+Coluna lombar c/ rectificação da lordose por contractura antálgica. Mobilidade lombar acentuadamente limitada em flexão, extensão, inclinação e rotação bilateral, por dor; Schober modificado 2 cm. Dor marcada à palpação das articulações sacroilíacas bilateralmente e manobras de compressão pélvica/FABER positivas bilateralmente. Sem dor à percussão focal das apófises espinhosas. Sem tumefacção, calor ou derrame em articulações periféricas; sem dactilite ou entesite periférica objectivável. Membros inferiores c/ força 5/5 bilateralmente, sensibilidade conservada em todos os territórios, ROT patelares e aquilianos presentes/simétricos, Lasègue e Bragard negativos bilateralmente. Pulsos distais presentes, sem edema.
+
+Quadro compatível c/ flare inflamatório axial, sob secuquinumab, c/ actividade inflamatória laboratorial significativa. Sem elementos clínicos, analíticos ou imagiológicos de fractura, síndrome radicular, compressão medular/cauda equina ou infecção sistémica. Pela imunomodulação em curso, dadas instruções para vigilância apertada de febre/sinais infecciosos. Sem indicação actual para corticoterapia sistémica em SU; necessidade de reavaliação rápida pela Reumatologia assistente para quantificação de actividade e eventual optimização/alteração de terapêutica biológica.
+
+Analgesia reforçada em SU c/ melhoria parcial, EVA 8/10 à admissão para 4-5/10 após terapêutica; mantém limitação à mobilização, mas deambula autonomamente, sem compromisso neurológico. Alta para domicílio, c/ analgesia de resgate e AINE por período curto, se tolerado, evitando associação de AINEs. Manter secuquinumab conforme esquema até orientação de Reumatologia; não antecipar nem administrar dose adicional. Contacto prioritário c/ consulta de Reumatologia em 48-72h. Regressar de imediato se febre, dor progressiva/incontrolável, défice neurológico, alterações esfincterianas, dor nocturna refractária, dispneia, sintomas urinários ou outro foco infeccioso.
+
+Notas de Enfermagem  
+10:25 – Admitida deambulante, acompanhada, queixa-se de lombalgia intensa c/ rigidez matinal. EVA 8/10. Sem risco de queda identificado, embora mobilização condicionada por dor.  
+10:42 – Cateter venoso periférico 20G MSD, sem intercorrências. Colheitas efectuadas.  
+11:05 – Administrada analgesia conforme prescrição, sem reacção adversa.  
+12:20 – Reavaliada: EVA 4-5/10, sem náuseas, tonturas ou sinais de hipersensibilidade. Mantém-se hemodinamicamente estável.  
+13:05 – Ensinos efectuados sobre terapêutica domiciliária, sinais de alarme e necessidade de reavaliação reumatológica urgente. Compreende e verbaliza concordância.
+
+Diagnósticos  
+(M459) - Espondiloartrite axial / espondilite anquilosante, c/ agudização inflamatória axial.  
+(M545) - Lombalgia inflamatória aguda, sem compromisso neurológico.  
+(R798) - Elevação de marcadores inflamatórios.
+
+Medicação  
+Data Início | Data Fim | Data da última toma | Designação do Fármaco  
+15/01/2026 10:48 | 15/01/2026 10:48 | 15/01/2026 10:48 | Metamizol 2 g EV, dose única  
+15/01/2026 10:50 | 15/01/2026 10:50 | 15/01/2026 10:50 | Cetorolac 30 mg EV, dose única  
+15/01/2026 11:35 | 15/01/2026 11:35 | 15/01/2026 11:35 | Paracetamol 1 g EV, dose única  
+15/01/2026 | 19/01/2026 | — | Naproxeno 500 mg PO 12/12h após alimentos, máximo 5 dias, se sem intolerância GI/renal; não associar outros AINE  
+15/01/2026 | 19/01/2026 | — | Omeprazol 20 mg PO 1id enquanto sob naproxeno  
+15/01/2026 | 19/01/2026 | — | Paracetamol 1 g PO SOS dor, intervalo mínimo 8/8h, máximo 3 g/dia
+
+MCDT Requisitados / Procedimentos Efectuados  
+A10001 – Hemograma completo: Hb 13,4 g/dL; Ht 40,1%; VGM 89,7 fL; leucócitos 9,8 x10^9/L, neutrófilos 6,2 x10^9/L; plaquetas 318 x10^9/L. Sem leucocitose, anemia ou trombocitopenia.  
+A10015 – Bioquímica: glicemia 142 mg/dL; ureia 28 mg/dL; creatinina 0,76 mg/dL, TFGe >90 mL/min/1,73m2; Na 139 mmol/L; K 4,2 mmol/L; AST 31 U/L; ALT 38 U/L; FA 96 U/L; GGT 58 U/L; bilirrubina total 0,6 mg/dL. Função renal preservada. Discreta elevação de GGT, estável face ao contexto hepatometabólico conhecido; sem citocolise significativa.  
+A10030 – PCR 68,4 mg/L, marcadamente elevada face a valores basais referidos baixos.  
+A10031 – VS 54 mm/1.ª hora, elevada.  
+A10042 – CK 74 U/L, sem elevação.  
+M10830 – RX coluna lombar AP e perfil: rectificação discreta da lordose lombar. Corpos vertebrais de altura e alinhamento preservados. Sem colapso vertebral, traço de fractura, listese ou lesão óssea focal. Espaços discais globalmente mantidos, discretos sinais espondilósicos marginais em L4-L5/L5-S1, sem alteração aguda.  
+M10848 – RX bacia/sacroilíacas AP: esclerose subcondral e irregularidade das superfícies articulares de ambas as articulações sacroilíacas, mais evidente no terço inferior, compatível c/ sacroileíte bilateral crónica conhecida. Sem diastase, erosão agressiva, fractura pélvica ou outra alteração óssea aguda. Articulações coxofemorais sem alterações significativas.
+
+Destino do Doente  
+Data: 15/01/2026 13:20  
+Destino: Domicílio, alta clínica c/ referenciação prioritária a Reumatologia.  
+Médico: Dr(a). Inês Valente

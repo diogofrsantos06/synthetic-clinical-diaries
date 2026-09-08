@@ -1,0 +1,45 @@
+20-Jan-2026 09:18:00 Dr(a). Rui Miguel Carvalhosa (HUC-URG_CARDIOLOGIA)
+
+Homem, 68A. Recorre por agravamento progressivo de dispneia de esforço, actualmente para pequenos esforços, ortopneia c/ necessidade de dormir c/ 3 almofadas e despertares nocturnos por dispneia, c/ 4 dias evolução. Refere aumento ponderal estimado ~3 kg/últimos dias e agravamento de edemas bimaleolares. Sem dor torácica, palpitações sustentadas, síncope, febre, tosse produtiva, hemoptises ou queixas urinárias. Diurese aparentemente diminuída nos últimos 2 dias, sem anúria. Nega incumprimento terapêutico, excesso sal manifesto ou suspensão de furosemida.
+
+AP: ICFEr isquémica pós-EAM c/ angioplastia primária e stent em 03/2021, NYHA II basal; FA permanente anticoagulada; DRC G3b, basal Cr ~1,6-1,8 mg/dL. Internamento por IC descompensada em 01/2024, com resposta a diurese EV. Colectomia parcial por neoplasia do sigmoide em 2019, sem evidência conhecida de recidiva. Alergia a AAS, c/ broncospasmo.
+
+MH: sacubitril/valsartan 97/103 mg 2id; bisoprolol 5 mg id; espironolactona 25 mg id; dapagliflozina 10 mg id; apixabano 5 mg 2id; furosemida 40 mg id.
+
+À admissão consciente, orientado, colaborante. Ligeira polipneia em repouso, fala frases completas. TA 146/84 mmHg, FC 92 bpm, irregular, FR 22 cpm, SpO2 93% AA, T 36,4ºC. Sem sinais de hipoperfusão periférica. JVP elevada, refluxo hepatojugular presente. AC: ritmo irregular, sem sopros novos, sem galope audível. AP: MV globalmente diminuído bases, fervores crepitantes bibasais até terços médios inferiores, sem sibilos. Abdómen macio, indolor, sem ascite clínica. MI c/ edemas maleolares e pré-tibiais bilat., simétricos, godet +++/4, sem sinais inflamatórios locais. Sem défices neurológicos focais.
+
+ECG: FA, resposta ventricular controlada, FC 88-94 bpm; QRS estreito; alterações inespecíficas ST-T, sem supra ST ou alterações isquémicas agudas face a traçado prévio disponível.
+
+Analítica inicial: Hb 12,8 g/dL, leucócitos 7,9x10^9/L, plaquetas 198x10^9/L. PCR 4,2 mg/L. Ureia 78 mg/dL, Cr 1,98 mg/dL, TFGe 35 mL/min/1,73m2, compatível c/ discreto agravamento sobre DRC conhecida, provável componente congestivo/cardiorrenal. Na 131 mmol/L, K 4,7 mmol/L, Cl 94 mmol/L, HCO3 25 mmol/L, Mg 2,0 mg/dL. AST 24 U/L, ALT 19 U/L, BT 0,8 mg/dL. Troponina T-hs 31 ng/L, controlo 3h 30 ng/L, sem dinâmica significativa. BNP 2480 pg/mL, marcadamente acima de valor basal conhecido (~700-900 pg/mL). Gasimetria arterial AA: pH 7,43, pCO2 36 mmHg, pO2 68 mmHg, HCO3 23,8 mmol/L, lactato 1,1 mmol/L.
+
+Rx tórax: cardiomegalia ligeira/moderada. Redistribuição vascular para lobos superiores, reforço da trama broncovascular peri-hilar bilateral e discreto edema intersticial difuso, c/ linhas B de Kerley bibasais. Pequenas opacidades alveolo-intersticiais peri-hilares, predominando bases, compatíveis c/ congestão/edema pulmonar incipiente. Sem consolidação focal sugestiva de pneumonia. Seios costofrénicos livres, sem derrame pleural volumoso. Sem pneumotórax.
+
+Quadro compatível c/ IC aguda descompensada, fenótipo congestivo, sem evidência de SCA, infecção respiratória ou arritmia rápida como precipitante imediato. Admitido em permanência/observação de curta duração. Feita furosemida 80 mg EV às 10:05, c/ diurese ~1450 mL nas primeiras 4h e melhoria progressiva de ortopneia e dispneia. Mantido sob monitorização, balanço hídrico e restrição hídrica moderada. Sem necessidade de VNI ou O2 suplementar mantida; SpO2 95-96% AA após diurese. Reavaliado ao fim de ~18h: TA 124/72 mmHg, FC 78 bpm em FA, FR 18 cpm, SpO2 96% AA; sem dispneia em repouso, tolera decúbito quase horizontal. Fervores residuais escassos bibasais. JVP menos evidente. Edemas MI reduzidos para +/4. Diurese total estimada 2600 mL, balanço negativo aproximado 1800 mL. Controlo analítico: Cr 1,86 mg/dL, ureia 74 mg/dL, Na 133 mmol/L, K 4,3 mmol/L.
+
+Sem critérios clínicos/laboratoriais para internamento prolongado após resposta favorável à diurese EV. Alta c/ reforço transitório de diurese oral: furosemida 40 mg 2id durante 5 dias, posteriormente retomar 40 mg id se peso/dispneia regressarem ao basal. Manter restante terapêutica de IC e apixabano, salvo indicação posterior de Cardiologia. Reforçadas restrição salina, vigilância de peso diária e registo de diurese. Orientado para regressar de imediato por dispneia em repouso, dor torácica, síncope, redução marcada da diurese, ganho ponderal >2 kg/48h ou agravamento de edemas. Reavaliação prioritária em consulta de Cardiologia/IC em 5-7 dias, c/ ionograma e função renal prévios.
+
+Notas de Enfermagem
+À entrada c/ dispneia aos pequenos esforços, ortopneia e edemas MI. Monitorização cardíaca contínua: FA c/ FC controlada. Acesso venoso periférico permeável. Administrada furosemida EV conforme prescrição, c/ resposta diurética abundante, sem hipotensão, dor torácica ou intolerância. Mantido AA durante permanência. Ensino efectuado sobre restrição hídrica/sódica, controlo ponderal e sinais de alarme. Sai pelo próprio pé, acompanhado por familiar, hemodinamicamente estável.
+
+Diagnósticos
+(I50.23) - Insuficiência cardíaca crónica sistólica agudizada, com congestão pulmonar e periférica
+(N17.9) - Agravamento agudo ligeiro da função renal, provável síndrome cardiorrenal
+(E87.1) - Hiponatremia ligeira hipervolémica
+(I48.21) - Fibrilhação auricular permanente, resposta ventricular controlada
+
+Medicação
+Data Início | Data Fim | Data da última toma | Designação do Fármaco
+20-Jan-2026 10:05 | 20-Jan-2026 10:05 | 20-Jan-2026 10:05 | Furosemida 80 mg EV
+20-Jan-2026 16:30 | 20-Jan-2026 16:30 | 20-Jan-2026 16:30 | Furosemida 40 mg EV
+
+MCDT Requisitados / Procedimentos Efectuados
+M10801 RX TÓRAX PA E PERFIL - Cardiomegalia ligeira/moderada, redistribuição vascular cefálica, congestão venosa pulmonar e edema intersticial bibasal c/ discretas opacidades peri-hilares. Sem derrame pleural volumoso, consolidação focal ou pneumotórax.
+M40112 ECG 12 DERIVAÇÕES - Fibrilhação auricular c/ resposta ventricular controlada, FC 90 bpm; alterações inespecíficas de repolarização, sem critérios electrocardiográficos de isquemia aguda.
+M70001 HEMOGRAMA COMPLETO - Sem anemia significativa, leucocitose ou trombocitopenia.
+M70005 BIOQUÍMICA URGENTE C/ IONOGRAMA, FUNÇÃO RENAL, BNP E TROPONINA - BNP 2480 pg/mL; Cr 1,98 mg/dL inicial, 1,86 mg/dL em controlo; Na 131→133 mmol/L; troponina T-hs sem dinâmica.
+M70018 GASIMETRIA ARTERIAL - Hipoxemia ligeira sem retenção de CO2, lactato normal.
+
+Destino do Doente
+Data: 21-Jan-2026 04:10
+Destino: Alta para domicílio, c/ seguimento prioritário por Cardiologia/consulta de Insuficiência Cardíaca.
+Médico: Dr(a). Rui Miguel Carvalhosa

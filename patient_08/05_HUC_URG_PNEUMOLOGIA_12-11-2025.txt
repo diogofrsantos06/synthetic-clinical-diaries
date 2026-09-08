@@ -1,0 +1,59 @@
+12-Nov-2025 16:42:00 Dr(a). Marta Sofia Valente (HUC-URG_PNEUMOLOGIA)
+
+M, 20A, seguido em consulta de FQ. Recorre por agravamento de tosse produtiva habitual c/ 3 dias evolução, aumento franco do volume de expetoração, atualmente mais espessa, amarelado-esverdeada, sem hemoptises. Associa cansaço fácil e ligeira dispneia para esforços habituais, sem dispneia em repouso. Nega dor pleurítica, sibilância marcada, calafrios, vómitos, dor abdominal ou alteração do trânsito intestinal. Sem febre objetivada no domicílio; Tmax referida 37,6ºC. Sem contactos infeciosos relevantes.
+
+AP: FQ homozigótica F508del, insuficiência pancreática exócrina, DM relacionada c/ FQ sob insulinoterapia, osteopenia. Exacerbação pulmonar em 02/2025, medicada c/ ATB EV em ambulatório, c/ recuperação funcional basal. Pneumotórax espontâneo em 2019, sem recorrência. Bronquiectasias ligeiras conhecidas no LMD, estáveis imagiologicamente. Colonização brônquica intermitente por S. aureus. Sem alergias medicamentosas conhecidas.
+
+MH: elexacaftor/tezacaftor/ivacaftor 2id; pancreatina às refeições; insulina degludec 14UI id; azitromicina 500mg 3x/semana; colecalciferol 50000UI/semana. Refere adesão habitual à terapêutica. Mantém fisioterapia respiratória domiciliária, embora c/ maior dificuldade na drenagem de secreções desde início do quadro.
+
+Consciente, colaborante, orientado, discurso fluente. Aspeto global conservado, ligeiramente cansado, sem sinais de dificuldade respiratória major. Eupneico em repouso, polipneia ligeira após fala prolongada. Mucosas húmidas, sem cianose, sem edemas periféricos.
+
+TA 118/72mmHg, FC 96bpm, FR 22cpm, T 37,3ºC, SpO2 94% AA (habitualmente 97-98% segundo registos prévios), glicemia capilar 166mg/dL.
+
+ORL sem hiperémia faríngea significativa, sem exsudado. Sem adenopatias cervicais dolorosas. AC: tons cardíacos rítmicos, sem sopros. AP: murmúrio vesicular globalmente mantido, expiração discretamente prolongada; fervores crepitantes/dispersos bilaterais, predominando em campo médio-inferior direito, sem silêncio auscultatório, sem sinais de derrame pleural. Abdómen plano, depressível, indolor, sem massas ou organomegalias. Sem sinais clínicos de TVP. Sem défice neurológico focal.
+
+Quadro compatível c/ exacerbação pulmonar ligeira-moderada de FQ, sem critérios clínicos/radiológicos de pneumonia lobar, insuficiência respiratória aguda ou sépsis. Colhida expetoração profunda, mucopurulenta, antes de antibioterapia, para exame direto, cultura bacteriológica e TSA; resultado pendente à data de saída. Hemoculturas não colhidas, sem febre ou instabilidade hemodinâmica.
+
+Analiticamente: Hb 15,1g/dL; leucócitos 12,8x10^9/L, neutrófilos 75,6%/9,7x10^9/L; plaquetas 284x10^9/L. PCR 24mg/L. Ionograma sem alterações relevantes: Na 137mmol/L, K 4,1mmol/L, Cl 101mmol/L. Ureia 28mg/dL, creatinina 0,81mg/dL, TFGe >90mL/min/1,73m2. AST 22U/L, ALT 19U/L, bilirrubina total 0,5mg/dL. Glicemia sérica 174mg/dL. Gasimetria venosa AA: pH 7,40, pCO2 43mmHg, HCO3 26mmol/L, lactato 1,1mmol/L; sem acidose, sem retenção hipercápnica. Cetonemia negativa.
+
+Rx tórax PA/perfil: discreta hiperinsuflação pulmonar; acentuação difusa da trama broncovascular/peribrônquica, de predomínio peri-hilar e basal direito, no contexto de doença brônquica crónica conhecida. Imagens de bronquiectasias lineares/cilíndricas no lobo médio direito, sem alteração relevante face a exames prévios. Sem foco de condensação alveolar novo, sem cavitação, sem derrame pleural e sem pneumotórax. Silhueta cardíaca sem cardiomegalia.
+
+Discutido c/ Pneumologia. Pela estabilidade hemodinâmica, ausência de hipoxemia significativa persistente, função renal preservada, ausência de foco pneumónico e possibilidade de vigilância apertada, decidido ciclo de antibioterapia EV em regime de Hospital de Dia, empírico e ajustável a resultado microbiológico. Administrada 1.ª dose piperacilina/tazobactam 4,5g EV, sem intercorrências ou reação adversa. Mantém SpO2 95-96% AA após repouso e higiene brônquica, sem necessidade de O2 suplementar.
+
+Orientado para manter modulador CFTR, azitromicina crónica conforme esquema habitual, enzimas pancreáticas c/ todas as refeições e insulina basal habitual; automonitorização glicémica reforçada durante período infecioso e contacto com equipa assistente se hiperglicemias persistentes. Reforçada hidratação, fisioterapia respiratória/drenagem de secreções pelo menos 3-4x/dia e vigilância de volume/aspetos da expetoração.
+
+Sinais de alarme explicados: dispneia em repouso, SpO2 persistente <92% AA, febre >38ºC mantida, hemoptise, dor torácica súbita, intolerância alimentar, vómitos, descompensação glicémica ou deterioração clínica. Em qualquer destes contextos, recorrer de imediato à SU.
+
+Notas de Enfermagem
+
+16:55h – Admitido ambulante, acompanhado por familiar. Tosse produtiva c/ expetoração mucopurulenta. Sem dor, EVA 0/10. Cateter venoso periférico 20G em MSD, permeável. Colheitas sanguíneas e amostra de expetoração enviadas ao laboratório.
+
+19:10h – Administrada piperacilina/tazobactam 4,5g EV em perfusão, sem reação adversa. Sem febre durante permanência. Mantém boa tolerância oral. SpO2 96% AA em repouso. Alta ambulante, hemodinamicamente estável.
+
+Diagnósticos
+
+(E84.0) - Fibrose quística com exacerbação pulmonar/infeção respiratória baixa  
+(J47.9) - Bronquiectasias, sem evidência de pneumonia aguda  
+(E08.9) - Diabetes mellitus relacionada com fibrose quística, sem descompensação aguda
+
+Medicação
+
+Data Início | Data Fim | Data da última toma | Designação do Fármaco
+12/11/2025 | 25/11/2025 | 12/11/2025 19:10 | Piperacilina/Tazobactam 4,5g EV 8/8h, ciclo previsto 14 dias em Hospital de Dia, a reavaliar conforme evolução clínica e TSA
+12/11/2025 | 12/11/2025 | 12/11/2025 19:10 | Cloreto de sódio 0,9% EV, diluente/perfusão de antibioterapia
+
+MCDT Requisitados / Procedimentos Efectuados
+
+M10801 – Hemograma completo, função renal, ionograma, perfil hepático, PCR, glicemia e gasimetria venosa. Leucocitose ligeira neutrofílica e PCR discretamente elevada; sem disfunção renal, distúrbio hidroeletrolítico, acidose metabólica ou hiperlactacidémia.
+
+M10830 – RX TÓRAX PA E PERFIL. Acentuação da trama peribrônquica crónica e bronquiectasias estáveis do lobo médio direito; sem condensação alveolar nova, derrame pleural ou pneumotórax.
+
+M70042 – Exame microbiológico de expetoração: exame direto, cultura bacteriológica e teste de suscetibilidade aos antimicrobianos. Amostra mucopurulenta colhida antes de ATB; resultado pendente.
+
+M90011 – Higiene brônquica/fisioterapia respiratória orientada em contexto de exacerbação de FQ.
+
+Destino do Doente
+
+Data: 12/11/2025  
+Destino: Domicílio, c/ continuidade de antibioterapia EV em Hospital de Dia de Pneumologia a partir de 13/11/2025; reavaliação clínica e analítica em 48-72h e consulta de Pneumologia após conclusão do ciclo.  
+Médico: Dr(a). Marta Sofia Valente
