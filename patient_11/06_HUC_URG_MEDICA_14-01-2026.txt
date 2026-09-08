@@ -1,0 +1,55 @@
+14-Jan-2026 11:42:00 Dr(a). Luís Miguel Tavares (HUC-URG_MEDICA)
+
+Homem, 74a, recorre por queda no domicílio cerca das 08h30. Refere ter-se levantado rapidamente da cama para ir à casa de banho, com tontura/sensação de desfalecimento súbita, seguida de queda para o lado esquerdo, com impacto do ombro E no pavimento. Nega síncope, perda de consciência, traumatismo craniano, cervicalgia, convulsões, incontinência esfincteriana ou período confusional subsequente. Sem dor torácica, palpitações, dispneia, cefaleia, défice motor/sensitivo novo ou alteração da fala. Queixa-se de dor ligeira no ombro E, sobretudo à mobilização acima do plano horizontal. Conseguiu levantar-se com auxílio familiar e mantém marcha possível c/ apoio habitual.
+
+AP: Doença de Parkinson, forma rígido-acinética, c/ hipotensão ortostática conhecida; HTA; HBP sintomática. Antecedente de queda em 02/2025, no mesmo contexto, sem fractura. Obstipação crónica. Sem alergias medicamentosas conhecidas. Sem terapêutica anticoagulante/antiagregante.
+
+MH: levodopa/carbidopa 250/25 mg 4id; pramipexol 0,7 mg 3id; tansulosina 0,4 mg id; amlodipina 2,5 mg id.
+
+À observação, consciente, colaborante, orientado x3, discurso adequado. GCS 15. Fácies hipomímica e bradicinésia compatíveis c/ patologia de base, sem agravamento neurológico focal. Eupneico em ar ambiente, sem sinais de sofrimento. Sem palidez marcada, sudorese ou sinais de desidratação clínica.
+
+EO: TA sentado 134/74 mmHg, FC 70 bpm, SpO2 97% AA, T 36,4ºC, FR 16 cpm, glicemia capilar 112 mg/dL. Pupilas isocóricas e fotorreactivas, sem nistagmo. Sem hematoma, ferida ou tumefacção craniofacial. Sem dor à palpação do couro cabeludo; sem otorragia/rinorreia. Coluna cervical sem dor mediana, sem limitação relevante das rotações. AC: tons rítmicos, sem sopros evidentes. AP: MV bilateralmente audível e simétrico, sem ruídos adventícios. Abdómen mole, depressível, indolor, sem defesa. Membros inferiores sem edema, sem assimetrias, sem dor gemelar.
+
+Ombro E sem deformidade, encurtamento ou atitude antálgica fixa. Discreta dor à palpação da região antero-superior/subacromial, sem dor focal marcada sobre clavícula, articulação esternoclavicular ou úmero proximal. Sem equimose ou crepitação. Mobilização activa possível, dolorosa nos últimos graus de abdução/flexão; mobilização passiva globalmente preservada. Rotação interna/externa mantida. Sem défice neurovascular distal: pulsos radiais palpáveis e simétricos, enchimento capilar <2 seg, sensibilidade e força distal preservadas.
+
+Prova ortostática: decúbito após repouso 5 min TA 148/80 mmHg, FC 68 bpm; sentado TA 122/70 mmHg, FC 72 bpm; ortostatismo aos 3 min TA 92/56 mmHg, FC 78 bpm, com reprodução de tontura, sem síncope. Queda sistólica >50 mmHg, compatível c/ hipotensão ortostática significativa, provável disautonomia associada a Parkinson, potencialmente favorecida por terapêutica anti-hipertensora/alfabloqueante e levante brusco.
+
+Sem critérios clínicos de TC crânio-encefálica: sem TCE referido, sem perda de consciência/amnesia, sem vómitos, sem anticoagulação, sem sinais neurológicos focais ou alteração do estado mental. Sem indicação para estudo analítico urgente na ausência de sinais de infecção, anemia, hipoglicemia, alteração hidroelectrolítica ou compromisso renal sugeridos clinicamente.
+
+Administrado paracetamol 1 g PO, com melhoria da dor do ombro. Incentivada hidratação oral, tolerada. Após período de repouso e hidratação, ortostatismo efectuado de forma progressiva, sem nova pré-síncope; mantém autonomia para marcha curta c/ acompanhante.
+
+Explicada provável etiologia da queda. Reforçadas medidas para hipotensão ortostática: levante em etapas (decúbito-sentado-ortostatismo), permanência sentado 1-2 min antes de caminhar, hidratação regular salvo contraindicação, evitar banhos muito quentes/álcool e períodos prolongados de pé, refeições fraccionadas, uso de apoio na deambulação e supervisão familiar nas transferências nocturnas. Não efectuar alterações autónomas da terapêutica dopaminérgica. Necessita reavaliação breve por Neurologia e Medicina Interna/MF para revisão de fármacos potencialmente hipotensores, nomeadamente amlodipina e tansulosina, ponderando ajuste conforme perfil tensional e queixas urinárias.
+
+Sinais de alarme explicados: nova síncope ou queda, dor torácica, dispneia, palpitações persistentes, cefaleia intensa, vómitos, confusão, sonolência, fraqueza/dormência, agravamento da dor do ombro, incapacidade de mobilização ou alteração neurovascular do membro. Em qualquer destas situações, recorrer de imediato ao SU. Alta c/ familiar, compreende e concorda.
+
+Notas de Enfermagem
+
+11h08 – Admitido de ambulatório, acompanhado por familiar. Queixa de tontura ao levantar e dor ligeira ombro E pós-queda. Sem feridas visíveis. TA 134/74 mmHg, FC 70 bpm, SpO2 97% AA, T 36,4ºC, glicemia capilar 112 mg/dL. Dor 3/10 em repouso, 5/10 à mobilização.
+
+11h25 – Avaliação ortostática positiva, c/ hipotensão sintomática em pé. Mantido em repouso, hidratação oral e vigilância. Sem lipotímia durante permanência no serviço.
+
+12h35 – Após analgesia, refere dor 1-2/10. Deambula c/ apoio, sem instabilidade aguda. Alta acompanhado.
+
+Diagnósticos
+
+(I95.1) - Hipotensão ortostática, sintomática, no contexto de disautonomia por Doença de Parkinson  
+(W19) - Queda acidental no domicílio, sem perda de consciência  
+(M25.512) - Dor no ombro esquerdo pós-traumática, sem evidência radiográfica de lesão óssea aguda  
+(G20) - Doença de Parkinson
+
+Medicação
+
+Data Início | Data Fim | Data da última toma | Designação do Fármaco  
+14/01/2026 11:50 | 14/01/2026 11:50 | 14/01/2026 11:50 | Paracetamol 1000 mg PO, toma única
+
+MCDT Requisitados / Procedimentos Efectuados
+
+M10852 1 OMBRO ESQUERDO, 2 INCIDÊNCIAS – Radiografias AP e perfil/transescapular. Alinhamento gleno-umeral preservado, sem luxação. Sem traço de fractura aguda identificável no úmero proximal, escápula, clavícula distal ou costelas visualizadas. Discreta irregularidade/osteofitose da articulação acromioclavicular, compatível c/ alterações degenerativas ligeiras. Espaço subacromial mantido. Sem derrame articular volumoso ou alterações agudas das partes moles. Conclusão: sem evidência radiográfica de lesão óssea traumática aguda; alterações degenerativas acromioclaviculares ligeiras.
+
+P10016 – Medição de TA em ortostatismo: hipotensão ortostática significativa, com redução de TA 148/80 mmHg em decúbito para 92/56 mmHg após 3 min de ortostatismo, acompanhada de tontura.
+
+Destino do Doente
+
+Data: 14/01/2026 12:48  
+Destino: Alta para domicílio, acompanhado por familiar; orientação para Neurologia e Medicina Interna/MF.  
+Médico: Dr(a). Luís Miguel Tavares

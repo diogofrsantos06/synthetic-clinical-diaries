@@ -1,0 +1,15 @@
+03-Fev-2026 Dr(a). Inês Valente (HUC-NEFROLOGIA)
+
+AP: Tx renal cadáver 06/2021, DM pós-Tx, HTA. Episódio rejeição celular ligeira 11/2021, resolvido após pulsos; ITU complicada 03/2024 sem sequelas. Reavaliado após pielonefrite do enxerto/ITU complicada tratada SU em Jan/2026. Inicialmente disúria, polaquiúria, febrícula e dor ligeira sobre FID, sem instabilidade hemodinâmica. Cumpriu amoxicilina/ác. clavulânico 875/125 mg 12/12h durante 10 dias. Actualmente assintomático: sem febre, disúria, urgência, hematúria, dor no enxerto, náuseas ou redução da diurese. Diurese habitual preservada, sem edemas.
+
+MH: tacrolimus 2id ajustado a vale, MMF 1 g 2id, prednisolona 5 mg id, cotrimoxazol 400/80 mg 3x/semana, sitagliptina 100 mg id, amlodipina 10 mg id, valsartan 160 mg id. Boa adesão referida. Sem tremor relevante actualmente.
+
+EO: TA 132/76 mmHg, FC 74 bpm, T 36,4ºC, SatO2 98% ar ambiente. Bom estado geral, eupneico. Abdómen flácido, indolor; loja do enxerto em FID sem dor à palpação, sem massa ou sopro audível. Sem edemas periféricos.
+
+Analítica controlo 30/01: Hb 13,4 g/dL, leucócitos 7,2x10^9/L, neutrófilos 4,6x10^9/L, plaquetas 228x10^9/L. Creatinina 1,24 mg/dL, prévia habitual 1,2-1,3 mg/dL; ureia 39 mg/dL, eTFG CKD-EPI 68 mL/min/1,73m2, Na 139 mmol/L, K 4,5 mmol/L, HCO3 24 mmol/L, Mg 1,7 mg/dL. PCR 1,8 mg/L. Glicemia 118 mg/dL, HbA1c 6,7%. Tacrolimémia vale 6,8 ng/mL. Urina II sem leucocitúria, nitritos negativos, hematúria ausente; RAC 78 mg/g, sem agravamento face a valores prévios. Urocultura de controlo estéril.
+
+Urocultura colhida no SU 12/01 com >10^5 UFC/mL Escherichia coli. Sensível a amoxicilina/ác. clavulânico, cefuroxima, ceftriaxone, ciprofloxacina, gentamicina e nitrofurantoína; resistente a ampicilina e cotrimoxazol. Sem fenótipo ESBL. Esquema instituído adequado ao antibiograma, com resolução clínica e analítica.
+
+Ecografia renal transplantado 30/01: enxerto em FID, dimensões e ecogenicidade preservadas, diferenciação corticomedular mantida. Sem ectasia pielocalicial, litíase ou colecção perienxerto. Parênquima sem lesões focais. Doppler com perfusão homogénea, artéria e veia do enxerto permeáveis, índices de resistência intrarrenais 0,64-0,68. Sem alterações significativas comparativamente à ecografia de 2025.
+
+Mantém imunossupressão e profilaxia sem alterações. Reforçadas hidratação, colheita de urocultura antes de antibioterapia em nova sintomatologia e recurso precoce por febre/dor sobre enxerto. Analítica, urina II, urocultura e tacrolimémia antes de próxima consulta, 3 meses.

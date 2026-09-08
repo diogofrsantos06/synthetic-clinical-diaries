@@ -1,0 +1,68 @@
+20-Jan-2026 14:18:00 Dr(a). Mariana Lopes Varela (HUC-URG_MEDICA)
+
+Homem, 55A, transplantado renal de dador cadáver 06/2021, sob tripla imunossupressão, recorre por febre, calafrios e disúria c/ 48h evolução. Associa polaquiúria, urgência miccional e dor lombar/lateral direita, com irradiação para FID sobre topografia do enxerto. Nega hematúria macroscópica, vómitos, diarreia, tosse, dispneia ou dor torácica. Sem redução objectivada da diurese; urina mais turva e cheiro intenso. Sem contacto infeccioso conhecido.
+
+AP: TR 06/2021, episódio rejeição aguda ligeira 11/2021 tratado c/ corticoterapia, função do enxerto posteriormente estável; ITU complicada 03/2024. DM pós-transplante, HTA. Nega litíase urinária conhecida.  
+MH: tacrolimus 2id ajustado a níveis; MMF 1 g 2id; prednisolona 5 mg id; sitagliptina 100 mg id; amlodipina 10 mg id; valsartan 160 mg id; cotrimoxazol 400/80 3x/semana.  
+Alergia a contraste iodado, reacção anafilactoide prévia.
+
+À admissão consciente, colaborante, aspecto séptico ligeiro mas sem critérios de choque. T 38,8ºC, TA 146/82 mmHg, FC 108 bpm, FR 18 cpm, SatO2 98% AA, glicemia capilar 186 mg/dL. Mucosas discretamente secas. AC: S1/S2 rítmicos, sem sopros. AP: MV mantido bilateralmente, sem ruídos adventícios. Abdómen mole, depressível, sem defesa/rigidez, RHA presentes; dor marcada à palpação profunda da FID/fossa ilíaca direita, sobre enxerto renal, sem massa palpável; sem sinais de irritação peritoneal. Giordano direito negativo em rim nativo. Sem edemas periféricos. Sem lesões cutâneas ou porta de entrada infecciosa evidente. Neurológico sem alterações focais.
+
+Colhidas hemoculturas x2 e urocultura antes de ATB. Iniciada hidratação EV cautelosa, paracetamol EV e piperacilina/tazobactam EV, atendendo a transplantado renal imunossuprimido c/ suspeita de pielonefrite do enxerto. Mantida imunossupressão; colhido vale de tacrolimus. Suspensa transitoriamente valsartan face a discreto agravamento da função renal e contexto de intercorrência infecciosa. Contactada Nefrologia/Transplantação; concorda c/ internamento em observação para vigilância clínica, função do enxerto e adequação de ATB a antibiograma.
+
+Analítica inicial: Hb 12,4 g/dL, leucócitos 17,8x10^9/L, neutrófilos 15,6x10^9/L, plaquetas 214x10^9/L. PCR 186 mg/L, PCT 1,12 ng/mL. Ureia 58 mg/dL, creatinina 1,56 mg/dL, eTFG 52 mL/min/1,73m2; creatinina basal referida 1,20-1,30 mg/dL. Na 134 mmol/L, K 4,7 mmol/L, Cl 101 mmol/L, HCO3 21 mmol/L. Glicemia 198 mg/dL. AST 19 U/L, ALT 22 U/L, FA 96 U/L, BT 0,6 mg/dL. Lactato venoso 1,4 mmol/L. Gasimetria venosa sem acidose significativa.  
+Urina II: aspecto turvo, densidade 1,015, pH 6,0, proteínas 1+, glicose negativa, cetonas negativas, sangue 2+, nitritos positivos, esterases leucocitárias 3+; sedimento c/ leucócitos >100/campo, abundantes agregados leucocitários, eritrócitos 10-15/campo, bactérias numerosas, sem cilindros granulosos significativos.
+
+Ecografia renal/transplante: enxerto renal em FID, dimensões e ecogenicidade preservadas, diferenciação córtico-medular mantida. Discreta ectasia pielocalicial sem hidronefrose significativa; sem imagens de litíase, colecção perienxerto ou abcesso. Vasculatura arterial e venosa do enxerto permeável, índices de resistência intrarrenais dentro dos limites esperados. Bexiga moderadamente repleta, parede discretamente espessada, sem imagens endoluminais. Sem líquido livre pélvico.
+
+Evolução em observação/internamento curto: após 24h sob piperacilina/tazobactam, apirexia sustentada, regressão franca de disúria e dor sobre enxerto; hemodinamicamente estável, diurese mantida. Sem vómitos, tolera dieta e hidratação oral. Hemoculturas sem crescimento às 48h. Urocultura: Escherichia coli >100.000 UFC/mL, sensível a ciprofloxacina, ceftriaxone, piperacilina/tazobactam e cotrimoxazol; resistente a amoxicilina. Vale de tacrolimus 7,1 ng/mL, dentro do alvo definido por Nefrologia. Reavaliação analítica 22/01: leucócitos 9,6x10^9/L, neutrófilos 6,8x10^9/L, PCR 68 mg/L, creatinina 1,31 mg/dL, ureia 43 mg/dL, K 4,3 mmol/L, Na 137 mmol/L.
+
+Quadro compatível c/ pielonefrite aguda do enxerto/ITU alta complicada por E. coli, sem evidência imagiológica de obstrução, abcesso ou compromisso vascular do enxerto. Boa resposta clínica, analítica e funcional sob ATB EV. Após discussão c/ Nefrologia, descalonada antibioterapia para ciprofloxacina VO, ajustada à função renal, para completar 14 dias de terapêutica total. Reiniciar valsartan após normalização sustentada da creatinina e controlo tensional ambulatório. Manter restante MH, incluindo imunossupressão, sem omissões. Alertado para interação potencial ciprofloxacina-tacrolimus; repetir função renal e nível de tacrolimus em consulta/colheita programada.
+
+Alta c/ indicação para regressar de imediato por febre, calafrios, agravamento da dor sobre enxerto, vómitos, diminuição da diurese, hematúria, intolerância terapêutica ou alteração do estado geral. Reavaliação em Nefrologia/Transplantação em 5-7 dias, c/ creatinina, ionograma, hemograma, PCR, urina II/urocultura de controlo e vale de tacrolimus.
+
+Notas de Enfermagem
+
+20/01/2026 14:05 - Admitido por febre/disúria. T 38,8ºC, TA 146/82 mmHg, FC 108 bpm, SatO2 98% AA. Acesso venoso periférico 20G MSE, colheitas efectuadas incluindo hemoculturas antes de ATB. Diurese espontânea, urina turva colhida para exame/cultura.
+
+20/01/2026 17:30 - Após paracetamol EV T 37,7ºC. Refere diminuição parcial da dor FID. Sem náuseas/vómitos. Iniciada piperacilina/tazobactam EV sem reacção adversa.
+
+21/01/2026 08:10 - Apirético, TA 132/76 mmHg, FC 82 bpm, SatO2 99% AA. Mantém diurese adequada. Dor ligeira à palpação sobre enxerto, sem analgesia de resgate necessária.
+
+22/01/2026 11:20 - Mantém-se apirético e hemodinamicamente estável. Sem disúria, tolera alimentação e terapêutica VO. Esclarecidos sinais de alarme e plano de alta; verbaliza compreensão.
+
+Diagnósticos
+
+(N390) - Infecção do tracto urinário complicada / pielonefrite aguda do enxerto renal por Escherichia coli  
+(Z940) - Transplante renal  
+(D849) - Imunossupressão farmacológica  
+(N179) - Agravamento pré-renal/infeccioso transitório da função do enxerto, resolvido  
+(E139) - Diabetes mellitus pós-transplante  
+(I10) - Hipertensão arterial
+
+Medicação
+
+Data Início | Data Fim | Data da última toma | Designação do Fármaco  
+20/01/2026 | 22/01/2026 | 22/01/2026 08:00 | Piperacilina/Tazobactam 4,5 g EV 8/8h  
+20/01/2026 | 20/01/2026 | 20/01/2026 15:00 | Paracetamol 1 g EV  
+20/01/2026 | 22/01/2026 | 22/01/2026 10:00 | Cloreto de sódio 0,9% EV, hidratação protocolada  
+22/01/2026 | 03/02/2026 | Não aplicável | Ciprofloxacina 500 mg VO 12/12h, completar 14 dias de terapêutica total  
+20/01/2026 | Manter | 22/01/2026 08:00 | Tacrolimus, MMF e prednisolona conforme esquema habitual  
+20/01/2026 | 22/01/2026 | 20/01/2026 08:00 | Valsartan temporariamente suspenso durante agravamento renal agudo
+
+MCDT Requisitados / Procedimentos Efectuados
+
+A10012 - Hemograma completo c/ fórmula leucocitária: leucocitose neutrofílica inicial 17,8x10^9/L, normalização progressiva para 9,6x10^9/L sob terapêutica.  
+A10018 - Bioquímica renal e ionograma: creatinina 1,56 mg/dL à admissão, basal habitual 1,20-1,30 mg/dL; melhoria para 1,31 mg/dL antes de alta. Sem hipercaliemia.  
+A10025 - PCR/PCT: PCR 186 mg/L e PCT 1,12 ng/mL inicialmente; PCR 68 mg/L em descida na reavaliação.  
+A10031 - Urina tipo II e sedimento: nitritos positivos, esterase leucocitária 3+, leucocitúria maciça e bacteriúria abundante, compatível c/ infecção urinária.  
+M23014 - Urocultura c/ TSA: E. coli >100.000 UFC/mL; sensível a ciprofloxacina, ceftriaxone, piperacilina/tazobactam e cotrimoxazol; resistente a amoxicilina.  
+M23015 - Hemoculturas periféricas x2: sem crescimento bacteriano às 48h.  
+I45022 - Ecografia reno-vesical c/ estudo Doppler do enxerto: enxerto em FID sem dilatação significativa, litíase, colecção ou abcesso; perfusão e índices Doppler preservados. Discreta espessamento vesical, compatível c/ cistite.  
+A10108 - Doseamento de tacrolimus: vale 7,1 ng/mL, dentro de intervalo terapêutico definido por Nefrologia.
+
+Destino do Doente
+
+Data: 22/01/2026  
+Destino: Alta para domicílio, clinicamente melhorado, apirético, c/ função do enxerto próxima do basal. Seguimento prioritário em Nefrologia/Transplantação.  
+Médico: Dr(a). Mariana Lopes Varela

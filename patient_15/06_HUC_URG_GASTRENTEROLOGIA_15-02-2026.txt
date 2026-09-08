@@ -1,0 +1,53 @@
+15-Fev-2026 10:18:00 Dr(a). Marta Leonor Gouveia (HUC-URG_GASTRENTEROLOGIA)
+
+Mulher, 63 anos, observada por agravamento de trânsito intestinal c/ 4 dias evolução: 6-7 dejeções/dia, líquidas/pastosas, c/ sangue vermelho vivo misturado e alguma urgência rectal. Hematoquézia moderada, sem eliminação de coágulos. Dor abdominal tipo cólica, predominante hipogastro/FIE, intensidade variável, alívio parcial após dejeção. Sem vómitos. Sem distensão abdominal relevante. Sem febre documentada, arrepios ou prostração marcada. Nega síncope, dispneia, dor torácica. Diurese mantida. Sem toma recente de AINE, ATB ou viagens. Sem contactos conhecidos c/ gastroenterite.
+
+AP: colite ulcerosa pancolónica dx 2012, em remissão clínico-endoscópica sob adalimumab; surto em 06/2024, com resposta a corticoterapia curta/optimização transitória do biológico. Pioderma gangrenoso prévio, actualmente em remissão, c/ cicatriz residual. Osteoporose pós-menopáusica. Anemia ferropénica ligeira conhecida. Diverticulite não complicada em 2019, sem recorrências.
+
+MH: adalimumab 40 mg SC q2 semanas, última administração há 8 dias, sem falhas referidas; alendronato 70 mg/semana; carbonato de cálcio 1500 mg id; colecalciferol 25000 UI/mês. Registada intolerância a mesalazina, c/ agravamento paradoxal de diarreia.
+
+À admissão consciente, colaborante, orientada, aspecto algo cansado, normocorada a ligeiramente pálida, hidratada. TA 128/74 mmHg, FC 92 bpm, FR 18 cpm, SpO2 98% AA, T 37,2ºC, dor 5/10. Mucosas discretamente secas. Sem adenopatias periféricas. AC: S1/S2 rítmicos, sem sopros. AP: MV presente bilateralmente, sem ruídos adventícios. Abdómen plano, ruídos hidroaéreos presentes, depressível; dor difusa à palpação, mais marcada em hipogastro e quadrantes inferiores, sem defesa involuntária, sem descompressão dolorosa, sem massas/organomegalias. Sem distensão ou timpanismo. TR: sem lesões perianais activas; ampola c/ pequena quantidade de fezes líquidas hemáticas, sem massa palpável. MMII sem edemas. Pele sem lesões compatíveis c/ reactivação de pioderma.
+
+Quadro compatível c/ provável surto moderado de CU. Sem critérios clínicos de megacólon tóxico, perfuração, sépsis ou hemorragia digestiva maciça. Colhidas fezes p/ estudo microbiológico antes de corticoterapia; sem contexto epidemiológico sugestivo de infecção entérica, mas necessária exclusão em doente sob anti-TNF.
+
+Analítica inicial: Hb 10,4 g/dL (prévia 11,3 g/dL), Ht 32,1%, VGM 79 fL, HGM 25,7 pg, leucócitos 10,8x10^9/L c/ neutrófilos 7,6x10^9/L, plaquetas 468x10^9/L. PCR 46,8 mg/L, VS 38 mm/h. Na 138 mmol/L, K 3,8 mmol/L, Cl 103 mmol/L, Mg 0,79 mmol/L, Ca 2,22 mmol/L. Ureia 5,8 mmol/L, creatinina 67 µmol/L, eGFR >90 mL/min/1,73m2. AST 19 U/L, ALT 17 U/L, FA 92 U/L, GGT 21 U/L, BT 7 µmol/L, albumina 34 g/L. Glicemia 6,1 mmol/L. Lactato 1,1 mmol/L. Coagulação sem alterações relevantes: INR 1,02, aPTT 29 s. Gasimetria venosa sem acidose, pH 7,39, HCO3 24 mmol/L.
+
+Calprotectina fecal 1860 µg/g, marcadamente elevada face a valores prévios em remissão (<100 µg/g). Coprocultura/PCR painel entérico e pesquisa de toxina/PCR Clostridioides difficile colhidas, resultados pendentes à alta. Hemoculturas não colhidas, sem febre ou critérios de sépsis.
+
+Revista última colonoscopia de vigilância, 09/2025: intubação ileal conseguida; mucosa cólica sem ulcerações ou actividade inflamatória macroscópica, Mayo endoscópico 0; biópsias segmentares sem displasia e sem actividade significativa. Pequenos pólipos hiperplásicos previamente removidos, sem atipia. Dado EO sem peritonismo, estabilidade hemodinâmica, ausência de vómitos/distensão e resposta precoce terapêutica, sem indicação imediata para TC abdomino-pélvica.
+
+Instituída hidratação EV c/ cristaloide, hidrocortisona 100 mg EV, analgesia c/ paracetamol EV e protecção gástrica c/ pantoprazol EV. Mantida vigilância em SO. Após 2 doses de hidrocortisona: redução da dor abdominal para 1-2/10, 2 dejeções adicionais durante permanência, menor volume hemático referido, sem febre, sem hipotensão ou taquicardia sustentada. Reavaliação: TA 122/70 mmHg, FC 78 bpm, T 36,8ºC; abdómen depressível, apenas discreto desconforto hipogástrico, sem sinais de irritação peritoneal. Tolerou líquidos e dieta ligeira.
+
+Contactada equipa de Gastrenterologia. Atendendo a melhoria clínica, estabilidade analítica/hemodinâmica e preferência informada da doente, acordada alta vigiada c/ prednisolona oral 40 mg id durante 7 dias, seguida de desmame 5 mg/semana até suspensão, salvo indicação contrária em consulta. Manter adalimumab no esquema habitual até reavaliação especializada; não antecipar ou suspender administração sem contacto prévio c/ Gastrenterologia. Programada reavaliação urgente em consulta de DII no prazo máximo de 5-7 dias, para avaliação de resposta, resultados microbiológicos, doseamento/anticorpos anti-adalimumab e eventual optimização/troca de biológico.
+
+Explicados sinais de alarme e indicação de regresso imediato à SU: febre ≥38ºC, agravamento da dor ou abdómen distendido, >8-10 dejeções/dia, hemorragia abundante/coágulos, tonturas/síncope, incapacidade de hidratação oral, vómitos persistentes, redução marcada da diurese ou deterioração do estado geral. Doente compreende e concorda c/ plano.
+
+Notas de Enfermagem
+10:25 — Admitida deambulante, acompanhada por familiar. Queixa-se de cólicas abdominais e dejeções frequentes c/ sangue. AV avaliados, sem instabilidade. Cateter venoso periférico 20G MSD, colheitas efectuadas sem intercorrências.
+12:10 — Após terapêutica EV, refere diminuição da dor e sem náuseas. Mantém-se apirética. Eliminação de dejeção líquida escassa, c/ estrias hemáticas.
+15:40 — Reavaliada previamente à alta; consciente, orientada, deambula sem dificuldade, tolera líquidos. Ensinos efectuados sobre terapêutica corticóide e sinais de alarme. Alta acompanhada.
+
+Diagnósticos
+(K51.00) - Colite ulcerosa pancolónica, surto agudo moderado
+(D50.9) - Anemia ferropénica ligeira, agravamento discreto em contexto de hematoquézia
+(Z79.62) - Terapêutica imunossupressora/biológica em curso
+
+Medicação
+Data Início | Data Fim | Data da última toma | Designação do Fármaco
+15-Fev-2026 | 15-Fev-2026 | 15-Fev-2026 11:05 | Cloreto de sódio 0,9% 1000 mL EV
+15-Fev-2026 | 15-Fev-2026 | 15-Fev-2026 11:20 | Hidrocortisona 100 mg EV
+15-Fev-2026 | 15-Fev-2026 | 15-Fev-2026 15:15 | Hidrocortisona 100 mg EV
+15-Fev-2026 | 15-Fev-2026 | 15-Fev-2026 11:25 | Pantoprazol 40 mg EV
+15-Fev-2026 | 15-Fev-2026 | 15-Fev-2026 11:30 | Paracetamol 1 g EV
+16-Fev-2026 | Conforme desmame | — | Prednisolona 40 mg PO id 7 dias; reduzir 5 mg/semana até suspensão
+
+MCDT Requisitados / Procedimentos Efectuados
+M10001 — Hemograma completo, bioquímica, ionograma, função renal/hepática, PCR, VS, coagulação e gasimetria venosa. Hb 10,4 g/dL, anemia microcítica ligeira; plaquetose reactiva 468x10^9/L; PCR 46,8 mg/L. Função renal, ionograma, lactato e provas hepáticas sem alterações significativas.
+M10042 — Calprotectina fecal: 1860 µg/g, valor compatível c/ inflamação intestinal activa importante e muito superior ao basal em remissão.
+M10118 — Estudo microbiológico de fezes: coprocultura/PCR painel bacteriano entérico e pesquisa de Clostridioides difficile, colhidos; resultados pendentes.
+M10990 — Consulta/revisão de colonoscopia prévia de 09/2025: colite ulcerosa em remissão endoscópica, Mayo 0, sem displasia nas biópsias de vigilância.
+
+Destino do Doente
+Data: 15-Fev-2026 16:20
+Destino: Domicílio, c/ reavaliação urgente em consulta de Gastrenterologia/DII
+Médico: Dr(a). Marta Leonor Gouveia

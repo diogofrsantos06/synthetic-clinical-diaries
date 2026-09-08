@@ -1,0 +1,43 @@
+22-Jan-2026 16:42:00 Dr(a). Marta Leonor Pires (HUC-URG_GINECOLOGIA)
+
+Recorre por dor pélvica aguda, predomínio FIE/hipogastro, início súbito cerca das 11h, intensidade inicial 9/10, sem irradiação, parcialmente semelhante a crises álgicas prévias de endometriose mas mais intensa e persistente. Associada a náuseas, sem vómitos. Sem febre/calafrios. Sem lipotímia, síncope ou astenia marcada. Sem disúria, polaquiúria ou hematúria. Trânsito intestinal habitual, sem diarreia/obstipação nova. Sem hemorragia vaginal significativa, apenas spotting escasso ocasional sob dienogest. Nega corrimento vaginal fétido. Sem possibilidade referida de gravidez.
+
+AP: endometriose profunda retrocervical/septo rectovaginal, dor pélvica crónica; SII misto; perturbação ansiedade generalizada. Antecedente de quisto ovárico esquerdo roto em 2021, tratado conservadoramente. Mioma intramural uterino conhecido, 20 mm.  
+MH: dienogest 2 mg id; naproxeno 500 mg SOS; escitalopram 10 mg id; mebeverina 135 mg 3id. Refere toma de naproxeno 500 mg pelas 12h, sem alívio relevante. Alergia/intolerância a codeína – náuseas e vómitos intensos.
+
+À observação consciente, colaborante, ansiosa por dor, bem perfundida, sem palidez marcada. TA 124/76 mmHg, FC 82 bpm, FR 17 cpm, SpO2 99% AA, T 36,7ºC. Mucosas húmidas. Cardio-pulmonar sem alterações. Abdómen depressível, ruídos hidroaéreos presentes, dor à palpação profunda de hipogastro e FIE, sem defesa involuntária, sem rigidez, sem dor à descompressão brusca. Sem massas abdominais palpáveis. Murphy renal bilateral negativo.
+
+Exame ginecológico c/ consentimento: genitais externos sem lesões; espéculo com vagina e colo sem lesões, sem sangue activo, sem leucorreia purulenta. Toque vaginal: colo fechado, dor à mobilização cervical e à palpação anexial esquerda; sem massa anexial claramente individualizável; fundo de saco posterior sem abaulamento. Quadro sem critérios clínicos de sépsis pélvica/PID.
+
+Analítica: Hb 13,1 g/dL, Ht 39,2%, leucócitos 8,7x10^9/L, neutrófilos 67%, plaquetas 276x10^9/L. PCR 1,8 mg/L. Na 139 mmol/L, K 4,0 mmol/L, creatinina 0,72 mg/dL, ureia 24 mg/dL, AST 18 U/L, ALT 16 U/L. Urina II sem leucocitúria/nitritos, sem hematúria significativa. β-hCG sérica negativa.
+
+ECO-TV urgente: útero em AVF, dimensões globais dentro do habitual. Miométrio discretamente heterogéneo. Formação nodular intramural anterior corporal, bem delimitada, 21 x 18 x 19 mm, compatível c/ mioma conhecido, sem alteração dimensional relevante. Endométrio fino, 3 mm, compatível c/ terapêutica hormonal supressiva. Ovário direito de morfologia e dimensões conservadas, 30 x 18 mm, folículos dispersos, vascularização mantida. Ovário esquerdo discretamente aumentado, 48 x 38 x 42 mm, identificando-se formação quística unilocular de 37 x 32 x 35 mm, conteúdo homogéneo de baixo nível/ecogenicidade fina difusa (“ground-glass”), parede regular, sem vegetações, septos espessados ou componente sólido, aspecto compatível c/ endometrioma. Estudo Doppler com vascularização preservada do parênquima ovárico periférico, sem ausência/inversão de fluxo, sem sinais ecográficos de torção anexial. Sem solução de continuidade da parede quística; sem líquido livre pélvico significativo ou ecos em suspensão que sugiram rotura/hemoperitoneu. Sem dilatação tubária. Discreta dor evocada à pressão transvaginal sobre anexo esquerdo.
+
+Medicação EV em SO: paracetamol 1 g + metamizol 2 g, ondansetron 4 mg. Reavaliada cerca de 60 min após terapêutica: dor 3/10, sem náuseas, hemodinamicamente estável, abdómen mantendo-se depressível, sem sinais peritoneais.
+
+Quadro compatível c/ exacerbação aguda de dor associada a endometrioma esquerdo, sem evidência actual de torção anexial, rotura quística, hemoperitoneu, gravidez ectópica ou processo infeccioso pélvico. Sem indicação para internamento ou abordagem cirúrgica urgente. Explicados achados ecográficos e necessidade de vigilância em consulta de Ginecologia/endometriose. Manter dienogest conforme prescrição habitual. Reforço analgésico transitório: paracetamol 1 g VO 8/8h SOS; naproxeno 500 mg VO 12/12h após alimentos, máximo 5 dias, se sem contraindicação GI/renal e sem associação a outros AINE. Ondansetron 4 mg VO SOS náusea. Regressar de imediato por agravamento/incontrolabilidade da dor, síncope/lipotímia, febre, vómitos persistentes, hemorragia vaginal abundante ou sinais de intolerância oral. Contacto/consulta de Ginecologia prioritária em 1-2 semanas; antecipar se recorrência.
+
+Notas de Enfermagem  
+Admitida deambulante, acompanhada. Dor pélvica referida 9/10 à triagem, náusea sem emese. Acesso venoso periférico 20G MSE, colheitas efectuadas sem intercorrências. Após analgesia EV refere melhoria franca, dor 3/10, tolera água VO, sem reacção adversa medicamentosa. Alta acompanhada, compreende indicações e sinais de alarme.
+
+Diagnósticos  
+(R10.2) - Dor pélvica aguda.  
+(N80.1) - Endometriose ovárica/endometrioma esquerdo.  
+(D25.1) - Mioma uterino intramural conhecido, estável.
+
+Medicação  
+Data Início | Data Fim | Data da última toma | Designação do Fármaco  
+22-Jan-2026 17:05 | 22-Jan-2026 17:05 | 22-Jan-2026 17:05 | Paracetamol 1 g EV  
+22-Jan-2026 17:05 | 22-Jan-2026 17:05 | 22-Jan-2026 17:05 | Metamizol 2 g EV  
+22-Jan-2026 17:05 | 22-Jan-2026 17:05 | 22-Jan-2026 17:05 | Ondansetron 4 mg EV  
+
+MCDT Requisitados / Procedimentos Efectuados  
+A10001 - Hemograma completo, bioquímica renal/iónica/hepática e PCR: sem anemia, leucocitose ou elevação de parâmetros inflamatórios; função renal e ionograma sem alterações relevantes.  
+A10014 - Urina tipo II: sem evidência analítica de infecção urinária; sem hematúria significativa.  
+A10022 - β-hCG sérica: negativa.  
+M10867 - Ecografia pélvica endovaginal urgente: endometrioma ovárico esquerdo 37 mm, sem critérios ecográficos de torção ou rotura activa; ausência de líquido livre pélvico significativo/hemoperitoneu. Mioma intramural anterior 21 mm, estável.
+
+Destino do Doente  
+Data: 22-Jan-2026 18:36  
+Destino: Alta para domicílio, clinicamente melhorada, com orientação para consulta de Ginecologia a curto prazo.  
+Médico: Dr(a). Marta Leonor Pires
